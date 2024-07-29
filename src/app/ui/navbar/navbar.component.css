@@ -1,0 +1,12 @@
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    padding: 10px 10px 10px ;
+    background-color: blueviolet;
+
+}
+ul>li:hover{
+    color: aliceblue;
+    cursor:pointer;
+}
